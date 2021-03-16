@@ -1,0 +1,21 @@
+.img {
+    height:300px;
+    overflow:hidden;
+    border:1px solid rgb(255, 255, 255);
+}
+    
+.img .card-img{
+    margin-top: -5%;
+}
+
+.save-botton {
+    background-color: rgb(218, 255, 209);
+}
+
+.edit-botton {
+    background-color: rgb(209, 229, 255);
+}
+
+.cancel-botton {
+    background-color: rgb(255, 209, 217);
+}
